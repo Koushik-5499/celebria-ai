@@ -38,3 +38,9 @@ coverage
 *.njsproj
 *.sln
 *.sw?
+
+# Video recordings & screenshots (Hack2Skill submission media)
+*.mp4
+*.webm
+screenshot_*.png
+celebria_*.mp4

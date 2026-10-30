@@ -44,3 +44,5 @@ coverage
 *.webm
 screenshot_*.png
 celebria_*.mp4
+.vercel
+.env*
